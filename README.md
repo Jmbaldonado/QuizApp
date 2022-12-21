@@ -12,8 +12,8 @@ This application is purely code along on the udemy course I've got learning Andr
 
 ## ⚙️ Tools and Languages
 
-- Kotlin \*
-- Android Studio \*
-- Git, GitHub \*
+- Kotlin
+- Android Studio
+- Git, GitHub
 
 ---
