@@ -1,4 +1,4 @@
-## Jet Tip Application
+## Quiz Application
 
 This application is based on [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
 
